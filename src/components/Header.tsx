@@ -5,11 +5,11 @@ export default function Header() {
     <Flex
       as='header'
       w='100%'
-      maxW={1480}
-      bg='black'
+      minW={1480}
       align='center'
+      h='100px'
     >
-
+      <img src={require('../images/logo.svg')} />
     </Flex>
   )
 }
