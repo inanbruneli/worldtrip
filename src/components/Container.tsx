@@ -5,9 +5,6 @@ export default function Container() {
     <Box
       w='100%'
       bg='white'
-      h='100vh'
-      position='absolute'
-      top='45vh'
       zIndex='0'
       paddingX='140px'
       paddingY='100px'
@@ -21,7 +18,11 @@ export default function Container() {
         <Image src='/images/More.svg' />
       </Flex>
 
-      <Text color='shite.200' textAlign='center' fontSize='36px' fontWeight='500' mt='132px'>
+      <Box borderTop='2px solid black' w='90px' h='2px' margin='0 auto' mt='80px'>
+
+      </Box>
+
+      <Text color='shite.200' textAlign='center' fontSize='36px' fontWeight='500' mt='52px'>
         Vamos nessa?<br />
         Então escolha seu continente
       </Text>

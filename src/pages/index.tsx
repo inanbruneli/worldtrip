@@ -1,3 +1,4 @@
+import { Box } from "@chakra-ui/react";
 import Banner from "../components/Banner";
 import Carrosel from "../components/Carrosel";
 import Container from "../components/Container";

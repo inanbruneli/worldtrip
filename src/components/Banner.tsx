@@ -2,7 +2,7 @@ import { Box, Flex, Image, Text } from "@chakra-ui/react";
 
 export default function Banner() {
   return (
-    <>
+    <Box position='relative'>
       <Image
         src='/images/background.png'
         w='100%'
@@ -38,7 +38,10 @@ export default function Banner() {
           src='/images/airplane.svg'
           zIndex='2'
         />
+
       </Flex>
-    </>
+      <Box w='100%' bg='white' h='120px' position='absolute' bottom='0'>
+      </Box>
+    </Box>
   )
 }
