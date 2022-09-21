@@ -27,21 +27,21 @@ export default function Carrosel() {
         </SwiperSlide>
         <SwiperSlide>
           <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='48px' zIndex='1' top='50%' left='50%' transform='translate(-50%, -50%)' >América do Norte</Text>
-          <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='24px' zIndex='1' top='62%' left='50%' transform='translate(-50%, -50%)' >O continente mais globalizado</Text>
+          <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='24px' zIndex='1' top='62%' left='50%' transform='translate(-50%, -50%)' >O continente mais moderno</Text>
           <NextLink href='../../detalhes/americadonorte' passHref>
             <Image src='/images/americanorte1.png' objectFit='cover' boxSize='100%' filter='brightness(0.8)' cursor='pointer' />
           </ NextLink >
         </SwiperSlide>
         <SwiperSlide>
           <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='48px' zIndex='1' top='50%' left='50%' transform='translate(-50%, -50%)' >América do Sul</Text>
-          <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='24px' zIndex='1' top='62%' left='50%' transform='translate(-50%, -50%)' >O continente mais pobre</Text>
+          <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='24px' zIndex='1' top='62%' left='50%' transform='translate(-50%, -50%)' >O continente mais turístico</Text>
           <NextLink href='../../detalhes/americadosul' passHref>
             <Image src='/images/americasul1.png' objectFit='cover' boxSize='100%' filter='brightness(0.8)' cursor='pointer' />
           </ NextLink >
         </SwiperSlide>
         <SwiperSlide>
           <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='48px' zIndex='1' top='50%' left='50%' transform='translate(-50%, -50%)' >Ásia</Text>
-          <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='24px' zIndex='1' top='62%' left='50%' transform='translate(-50%, -50%)' >O continente mais rico</Text>
+          <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='24px' zIndex='1' top='62%' left='50%' transform='translate(-50%, -50%)' >O continente do por do sol</Text>
           <NextLink href='../../detalhes/asia' passHref>
             <Image src='/images/asia1.png' objectFit='cover' boxSize='100%' filter='brightness(0.8)' cursor='pointer' />
           </ NextLink >
@@ -55,7 +55,7 @@ export default function Carrosel() {
         </SwiperSlide>
         <SwiperSlide>
           <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='48px' zIndex='1' top='50%' left='50%' transform='translate(-50%, -50%)' >Oceania</Text>
-          <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='24px' zIndex='1' top='62%' left='50%' transform='translate(-50%, -50%)' >O continente mais pika</Text>
+          <Text w='100%' textAlign='center' position='absolute' color='white' fontWeight='700' fontSize='24px' zIndex='1' top='62%' left='50%' transform='translate(-50%, -50%)' >O continente com mais ilhas</Text>
           <NextLink href='../../detalhes/oceania' passHref>
             <Image src='/images/oceania1.png' objectFit='cover' boxSize='100%' filter='brightness(0.8)' cursor='pointer' />
           </NextLink>
