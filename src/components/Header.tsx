@@ -5,7 +5,6 @@ export default function Header() {
     <Flex
       as='header'
       w='100%'
-      minW={1480}
       align='center'
       h='100px'
     >
@@ -13,6 +12,7 @@ export default function Header() {
         src="/images/logo.svg"
         alt='logo'
         marginX='auto'
+
       />
     </Flex>
   )

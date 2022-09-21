@@ -6,11 +6,11 @@ import Header from "../components/Header";
 
 export default function Home() {
   return (
-    <>
+    <Box overflowX='hidden'>
       <Header />
       <Banner />
       <Container />
       <Carrosel />
-    </>
+    </Box>
   )
 }

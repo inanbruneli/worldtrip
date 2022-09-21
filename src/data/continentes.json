@@ -33,32 +33,137 @@
   {
     "continente": "asia",
     "continenteTitle": "Asia",
-    "mainImage": "/images/asia1.png",
+    "mainImage": "/images/asia.png",
     "nPaises": "50",
-    "nLinguas": "60",
+    "nLinguas": "2.036",
     "nCidades": "27",
-    "texto": "A Asia é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+    "texto": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico. O ponto extremo setentrional do continente está localizado no oceano Glacial Ártico.",
     "cidades": [
       {
-        "cidade": "Londres",
-        "pais": "Reino Unido"
+        "cidade": "Xangai",
+        "pais": "China"
       },
       {
-        "cidade": "Paris",
-        "pais": "França"
+        "cidade": "Mumbai",
+        "pais": "India"
       },
       {
-        "cidade": "Roma",
-        "pais": "Itália"
+        "cidade": "Toquio",
+        "pais": "Japão"
       },  
       {
-        "cidade": "Praga",
+        "cidade": "Istambul",
         "pais": "Republica Tcheca"
+      }
+    ]
+  },
+  {
+    "continente": "africA",
+    "continenteTitle": "África",
+    "mainImage": "/images/africa.png",
+    "nPaises": "54",
+    "nLinguas": "2.140",
+    "nCidades": "721",
+    "texto": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3 % da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de mil milhões de pessoas (estimativa para 2005), representando cerca de um sétimo da população do mundo, e 54 países independentes. Apresenta grande diversidade étnica, cultural, social e política. Dos trinta países mais pobres do mundo, pelo menos 21 são africanos.",
+    "cidades": [
+      {
+        "cidade": "Lagos",
+        "pais": "Nigéria"
       },
       {
-        "cidade": "Amsterdã",
-        "pais": "Holanda"
+        "cidade": "Cairo",
+        "pais": "Egito"
+      },
+      {
+        "cidade": "Nairóbi",
+        "pais": "Quénia"
+      },  
+      {
+        "cidade": "Alexandria",
+        "pais": "Egito"
+      }
+    ]
+  },
+  {
+    "continente": "americadonorte",
+    "continenteTitle": "América do norte",
+    "mainImage": "/images/americadonorte.png",
+    "nPaises": "4",
+    "nLinguas": "24",
+    "nCidades": "589",
+    "texto": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe).",
+    "cidades": [
+      {
+        "cidade": "Cidade do México",
+        "pais": "México"
+      },
+      {
+        "cidade": "Nova Iorque",
+        "pais": "Estados Unidos"
+      },
+      {
+        "cidade": "Toronto",
+        "pais": "Canadá"
+      },  
+      {
+        "cidade": "Los Angeles",
+        "pais": "Estados Unidos"
+      }
+    ]
+  },
+  {
+    "continente": "americadosul",
+    "continenteTitle": "América do Sul",
+    "mainImage": "/images/americadosul.png",
+    "nPaises": "12",
+    "nLinguas": "78",
+    "nCidades": "915",
+    "texto": "A América do Sul é um continente[2][3] que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano.[4][5] A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial. Une-se à América Central a norte pelo istmo do Panamá e se separa da Antártida ao sul pelo estreito de Drake. Tem uma extensão de 7 500 km desde o mar do Caribe até ao cabo Horn, ponto extremo sul do continente. Os outros pontos extremos da América do Sul são: ao norte a Punta Gallinas, na Colômbia, ao leste a Ponta do Seixas, no Brasil, e a oeste a Punta Pariñas, no Peru.",
+    "cidades": [
+      {
+        "cidade": "São Paulo",
+        "pais": "Brasil"
+      },
+      {
+        "cidade": "Lima",
+        "pais": "Peru"
+      },
+      {
+        "cidade": "Bogotá",
+        "pais": "Colômbia"
+      },  
+      {
+        "cidade": "Rio de Janeiro",
+        "pais": "Brasil"
+      }
+    ]
+  },
+  {
+    "continente": "oceania",
+    "continenteTitle": "Oceania",
+    "mainImage": "/images/oceania.png",
+    "nPaises": "13",
+    "nLinguas": "1.322",
+    "nCidades": "543",
+    "texto": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+    "cidades": [
+      {
+        "cidade": "Sydney",
+        "pais": "Austrália"
+      },
+      {
+        "cidade": "Macáçar",
+        "pais": "Indonésia"
+      },
+      {
+        "cidade": "Auckland",
+        "pais": "Nova Zelândia"
+      },  
+      {
+        "cidade": "Honolulu",
+        "pais": "Estados Unidos"
       }
     ]
   }
+  
 ]

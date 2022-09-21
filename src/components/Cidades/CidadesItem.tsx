@@ -14,13 +14,13 @@ export default function CidadesItem({ cidade, pais }: cidadesProps) {
 
   return (
     <Box w='256px' borderRadius='4px' border='1px solid rgba(255, 186, 8, 0.5)' marginBottom='48px'>
-      <Image src={cidadeImage} />
+      <Image src={cidadeImage} objectFit='cover' h='173px' w='100%' />
       <Flex h='106px' paddingX='24px' paddingTop='18px' justifyContent='space-between' alignItems='center'>
         <Box>
           <Text fontSize='20px' fontWeight='600' color='white.200' marginBottom='12px'>{cidade}</Text>
           <Text fontSize='16px' fontWeight='50' color='#999999'>{pais}</Text>
         </Box>
-        <Image src={paisImage} borderRadius='50%' boxSize='30px' />
+        <Image src={paisImage} borderRadius='50%' boxSize='30px' objectFit='fill' />
       </Flex>
     </Box>
   )
